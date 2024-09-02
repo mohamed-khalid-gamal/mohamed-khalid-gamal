@@ -1,5 +1,17 @@
 # 💫 About Me:
-👋 Hi, I'm Mohamed Khalid Gamal!<br><br>I'm a passionate ASP.NET developer and a junior student in Computer and Information Science at Ain Shams University. With a strong foundation in web development, I specialize in building robust and scalable applications using ASP.NET Core, Entity Framework, and various front-end technologies like HTML, CSS, JavaScript, and Bootstrap.<br><br>🔧 Skills:<br><br>Languages: C#, JavaScript<br>Web Development: ASP.NET Core, MVC, Razor Pages<br>Database: Entity Framework, SQL<br>Other: LINQ, ASP.NET Identity, Problem-solving, Data Structures<br>🚀 Projects:<br><br>Recently completed a full-stack e-commerce project using ASP.NET Core, showcasing skills in authentication, product management, and interactive dashboards.<br>Working on innovative web-based applications that involve unique user experiences, such as viewing star charts from exoplanets and comparing ground observations with Landsat data.<br>💡 What Drives Me: I love solving complex problems and turning ideas into functional software solutions. I’m always eager to learn new technologies and take on challenging projects that push my skills further.<br><br>🌱 Current Focus: I'm currently Develop My Experience in Back-end<br><br>📫 Let’s Connect: Feel free to explore my work and reach out if you want to collaborate or chat about ASP.NET development!
+👋 Hi, I'm Mohamed Khalid Gamal!
+
+I'm an ASP.NET developer and a Computer and Information Science student at Ain Shams University. I specialize in building web applications using ASP.NET Core, Entity Framework, and modern front-end technologies.
+
+🔧 Skills: C#, ASP.NET Core, Entity Framework, ASP.NET Identity, HTML, CSS, JavaScript, MVC.
+
+🚀 Projects:
+
+Developed a full-stack e-commerce application using ASP.NET Core.
+Currently contributing to the NASA Space Apps Challenge.
+💡 I’m passionate about solving problems and creating impactful software solutions. Always open to new challenges and collaborations!
+
+
 
 
 ## 🌐 Socials:
